@@ -130,7 +130,7 @@
       "market":"Относящиеся к бирже",
       "account":"Относящиеся к аккаунтам",
       "business":"Обслуживающие бизнес-процессы",
-      "game":"Игровая"
+      "game":"Относящиеся к Играм"
     },
     "feeTypes":{
       "_none":"Без комиссий",
@@ -152,7 +152,7 @@
       "limit_order_cancel":"Отмена ордера",
       "short_order_cancel":"Быстрая отмена ордера",
       "call_order_update":"Обновление залога",
-      "key_create":"Создать ключ",
+      "key_create":"Создание ключа",
       "account_create":"Создание аккаунта",
       "account_update":"Обновление аккаунта",
       "account_whitelist":"Добавление в белый список",
@@ -162,7 +162,7 @@
       "asset_update":"Обновление актива",
       "asset_update_bitasset":"Обновление SmartCoin",
       "asset_update_feed_producers":"Обновление производителей котировок актива",
-      "asset_burn":"Сжечь Актив",
+      "asset_burn":"Сжигание Актива",
       "asset_issue":"Выпуск актива",
       "asset_reserve":"Резервирование актива",
       "asset_fund_fee_pool":"Пополнение пула комиссий актива",
@@ -194,8 +194,8 @@
       "blind_transfer":"Слепой перевод",
       "transfer_from_blind":"Перевод со слепого аккаунта",
       "asset_claim_fees":"Взыскание комиссий с активов",
-      "tournament_create":"Создать турнир",
-      "tournament_join":"Присоединиться к турниру",
+      "tournament_create":"Создание турнира",
+      "tournament_join":"Присоединение к турниру",
       "game_move":"Ход игры",
       "tournament_payout_operation":"Выигрыш турнира",
       "asset_dividend_distribution":"Распределение дивидендов актива"
