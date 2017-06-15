@@ -14,7 +14,7 @@
     "notices":"Уведомления",
     "dashboard":"Инфопанель",
     "play":"Играть",
-    "vote":"Проголосовать",
+    "vote":"Голосовать",
     "network":"Сеть",
     "exchange":"Биржа",
     "no_notices_message":"У Вас нет уведомлений."
@@ -55,7 +55,7 @@
       "operation":{
         "title":"Операция",
         "show_all":"Показать все",
-        "tournament_actions":"Турнирные Матчи",
+        "tournament_actions":"Турнирные Действия",
         "transfers":"Переводы"
       },
       "sender":"Отправитель",
