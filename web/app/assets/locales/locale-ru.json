@@ -450,7 +450,7 @@
   "explore":{
     "blockchain":{
       "recent_blocks":{
-        "title":"Последние блоки",
+        "title":"Недавние блоки",
         "block_id":"Идентификатор блока",
         "date":"Дата",
         "witness":"Заверитель",
