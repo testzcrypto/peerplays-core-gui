@@ -61,17 +61,17 @@
       "sender":"Afzender",
       "receiver":"Ontvanger",
       "description":"Omschrijving",
-      "date":"Date"
+      "date":"Datum"
     }
   },
   "activity":{
-    "reg_account":"%(registrar)s registered the account %(new_account)s",
-    "transfer":"%(from)s sent %(amount)s to %(to)s",
-    "proposal_create":"%(account)s created a proposed transaction",
-    "proposal_update":"%(account)s updated a proposed transaction",
-    "proposal_delete":"%(account)s deleted a proposed transaction",
-    "transfer_to_blind":"%(account)s sent %(amount)s",
-    "transfer_from_blind":"%(account)s received %(amount)s",
+    "reg_account":"%(registrar)s registreerde de account %(new_account)s",
+    "transfer":"verzond %(from)s %(amount)s aan %(to)s",
+    "proposal_create":"%(account)s maakte een voorgestelde transactie",
+    "proposal_update":"%(account)s heeft een voorgestelde transactie bijgewerkt",
+    "proposal_delete":"%(account)s heeft een voorgestelde transactie verwijderd",
+    "transfer_to_blind":"%(account)s verzond %(amount)s",
+    "transfer_from_blind":"%(account)s ontving %(amount)s",
     "asset_claim_fees":"claimed asset fees of %(amount)s from %(from)s fee pool",
     "fill_order":"%(account)s bought %(received)s at %(price)s",
     "vesting_balance_withdraw":"%(account)s withdrew vesting balance of %(amount)s",
