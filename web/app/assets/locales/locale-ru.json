@@ -166,7 +166,7 @@
       "asset_issue":"Выпуск актива",
       "asset_reserve":"Резервирование актива",
       "asset_fund_fee_pool":"Пополнение пула комиссий актива",
-      "asset_settle":"Погашение активов",
+      "asset_settle":"Погашение актива",
       "asset_global_settle":"Глобальное погашение активов",
       "asset_publish_feed":"Публикация котировок",
       "committee_member_create":"Создание члена комитета",
@@ -179,7 +179,7 @@
       "proposal_delete":"Удаление предложения",
       "withdraw_permission_create":"Создание разрешения на вывод",
       "withdraw_permission_update":"Обновление разрешения на вывод",
-      "withdraw_permission_claim":"Истребование разрешения на вывод",
+      "withdraw_permission_claim":"Востребование разрешения на вывод",
       "withdraw_permission_delete":"Удаление разрешения на вывод",
       "fill_order":"Исполнение ордера",
       "committee_member_update_global_parameters":"Обновление глобальных параметров",
@@ -196,7 +196,7 @@
       "asset_claim_fees":"Взыскание комиссий с активов",
       "tournament_create":"Создание турнира",
       "tournament_join":"Присоединение к турниру",
-      "game_move":"Ход игры",
+      "game_move":"Ход в игре",
       "tournament_payout_operation":"Выигрыш турнира",
       "asset_dividend_distribution":"Распределение дивидендов актива"
     }
@@ -276,7 +276,7 @@
         "dashboard":"Инфопанель",
         "find":"Найти",
         "explore":"Обозреватель",
-        "create_new":"Создать новый"
+        "create_new":"Создать новую"
       },
       "player_1st":"1й игрок",
       "player_2nd":"2й игрок",
@@ -291,7 +291,7 @@
       "end_time":"Время окончания",
       "buy_in":"Бай-ин",
       "jackpot":"Джекпот",
-      "open":"Открыть",
+      "open":"Открыта",
       "actions":"Действия",
       "upcoming_players_text":"%(current)s из %(total)s",
       "seconds_after_join_title":"%(seconds)s секунд после присоединения последнего игрока",
