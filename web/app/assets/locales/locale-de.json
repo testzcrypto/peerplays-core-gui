@@ -6,7 +6,7 @@
     "ko":"한국어",
     "de":"Deutsch",
     "es":"Español",
-    "tr":"Turkish"
+    "tr":"Türkçe"
   },
   "header":{
     "settings":"Einstellungen",
@@ -65,7 +65,7 @@
     }
   },
   "activity":{
-    "reg_account":"%(registrar)s registered the account %(new_account)s",
+    "reg_account":"%(registrar)s hat das Konto %(new_account)s registriert",
     "transfer":"%(from)s geschickt %(amount)s an %(to)s",
     "proposal_create":"%(account)s hat eine Transaktion vorgeschlagen",
     "proposal_update":"%(account)s aktualisiert eine geplante Transaktion",
@@ -77,7 +77,7 @@
     "vesting_balance_withdraw":"%(account)s withdrew vesting balance of %(amount)s",
     "balance_claim":"%(account)s beanspruchte ein Guthaben von %(amount)s",
     "publish_feed":"%(account)s published feed price of %(price)s",
-    "set_proxy":"%(account)s set %(proxy)s as their voting proxy",
+    "set_proxy":"%(account)s hat %(proxy)s als seinen Proxy eingestellt",
     "update_account":"%(account)s hat seine Account Daten aktualisiert",
     "limit_order_sell":"%(account)s erstellte ein Angebot zum verkaufen von %(amount)s für%(price)s",
     "limit_order_buy":"%(account)s erstellte Angebot zum kaufen von %(amount)s für %(price)s",
