@@ -676,38 +676,38 @@
     "note1":"If you lose your password, you will lose all of your funds!",
     "note2":"Keep Your Password safe!",
     "note3":"Um eine Textdatei Ihres Passwortes herunterzuladen, klicken sie bitte den unten stehenden Link:",
-    "pseudoText1":"I understand that Peerplays cannot recover lost passwords",
-    "pseudoText2":"I have securely saved my generated password",
-    "create_btn":"Create account",
-    "download_btn":"Download recovery file",
+    "pseudoText1":"Ich verstehe, dass Peerplays verlorene Passwörter nicht wiederherstellen kann",
+    "pseudoText2":"Ich habe mein generiertes Passwort sicher gespeichert",
+    "create_btn":"Konto erstellen",
+    "download_btn":"Wiederherstellungsdatei herunterladen",
     "reenter_password":"Re-Enter Generated Password",
-    "copy_btn":"Copy",
+    "copy_btn":"Kopieren",
     "your_password_is":"Your account password is",
-    "already_have_account":"Already have an account? Go to %(login_link)s",
-    "login_link":"Login"
+    "already_have_account":"Sie haben bereits ein Konto? Gehe zu %(login_link)s",
+    "login_link":"Anmelden"
   },
   "buttons":{
-    "done":"Done",
-    "in_process":"In Process ...",
-    "copy":"Copy"
+    "done":"Erledigt",
+    "in_process":"In Bearbeitung...",
+    "copy":"Kopieren"
   },
   "modal":{
     "unlock":{
       "title":"Unlock Wallet",
-      "password":"Password",
-      "password_placeholder":"Enter password",
+      "password":"Passwort",
+      "password_placeholder":"Passwort eingeben",
       "unlock_btn":"Unlock Wallet"
     }
   },
   "deposit_with_draw":{
-    "deposit":"Deposit",
-    "withdraw":"Withdraw",
+    "deposit":"Einzahlung",
+    "withdraw":"Auszahlung",
     "deposit_select_label":"Coin or Asset to Deposit:",
     "withdraw_select_label":"Coin or Asset to Withdraw:",
-    "available":"Available",
+    "available":"Verfügbar",
     "deposit_address":"Deposit Address",
-    "copy_btn":"Copy",
-    "amount_withdraw":"Amount to Withdraw",
+    "copy_btn":"Kopieren",
+    "amount_withdraw":"Auszahlungsbetrag",
     "withdraw_address":"Withdraw Address",
     "withdraw_btn":"Withdraw",
     "history":{
@@ -752,7 +752,7 @@
         "text_4":"Other Assets - User-Issued Asset tokens and gateway tokens"
       },
       "recent_activity":{
-        "header":"Recent Activity",
+        "header":"Letzte Aktivität",
         "text_1":"This data feed shows the latest transactions you have made with your Peerplays account, including sending funds, receiving funds, and voting for witnesses."
       },
       "send":{
