@@ -362,18 +362,18 @@
     "select_witness":"Select a Witness",
     "witness_stats":"Witness Stats",
     "action":"Action",
-    "add_witness":"Add",
+    "add_witness":"Hinzufügen",
     "remove_witness":"Entferne",
     "reset_changes":"Zurücksetzen der Änderungen",
     "remove_committee":"Entferne",
-    "add_committee":"Add",
+    "add_committee":"Hinzufügen",
     "add_committee_label":"Advisors",
     "advisors":"Advisors",
     "advisor":"Advisor",
     "add_witness_label":"Witness",
     "approve_worker":"Genehmigen",
     "reject_worker":"Verweigern",
-    "worker_account":"Worker account",
+    "worker_account":"Arbeiter-Konto",
     "total_votes":"Net votes",
     "votes_against":"Votes against",
     "daily_pay":"Pay",
@@ -388,7 +388,7 @@
     },
     "start":"Startdatum",
     "end":"Enddatum",
-    "creator":"Creator",
+    "creator":"Ersteller",
     "recycled":"Recycled",
     "funding":"Funding",
     "total_budget":"Total available worker budget",
@@ -442,17 +442,17 @@
     "next_vote":"Next vote update",
     "card":"Card view",
     "table":"Table view",
-    "rank":"Rank",
-    "last_confirmed":"Last confirmed",
+    "rank":"Rang",
+    "last_confirmed":"Zuletzt bestätigt",
     "missed":"Blocks missed",
-    "last_block":"Last block"
+    "last_block":"Letzter Block"
   },
   "explore":{
     "blockchain":{
       "recent_blocks":{
-        "title":"Recent Blocks",
-        "block_id":"Block ID",
-        "date":"Date",
+        "title":"Letzte Blöcke",
+        "block_id":"Block-ID",
+        "date":"Datum",
         "witness":"Witness",
         "transaction_count":"Anzahl der Transaktionen"
       },
@@ -488,10 +488,10 @@
     },
     "statistic":{
       "title":"Explore the Blockchain",
-      "current_block":"Current Block",
-      "last_block":"Last Block",
+      "current_block":"Aktueller Block",
+      "last_block":"Letzter Block",
       "trx_s":"TRX/S",
-      "average_confirmation_time":"Average Confirmation Time",
+      "average_confirmation_time":"Durchschnittliche Bestätigungzeit",
       "active_witness":"Active Witness",
       "active_comittee_members":"Active Comittee Members",
       "trx_block":"TRX / BLOCK",
@@ -500,12 +500,12 @@
       "stealth_supply":"Stealth Supply"
     },
     "recent_activity":{
-      "title":"Recent Activity:",
+      "title":"Letzte Aktivität:",
       "operation":"Operation",
-      "sender":"Sender",
-      "receiver":"Receiver",
-      "description":"Description",
-      "date":"Date"
+      "sender":"Absender",
+      "receiver":"Empfänger",
+      "description":"Beschreibung",
+      "date":"Datum"
     }
   },
   "operation":{
@@ -521,8 +521,8 @@
     "proposal_create":"{account} hat Transaktion vorgeschlagen",
     "proposal_update":"{account} hat Transaktionsvorschlag geändert",
     "proposal_delete":"{account} hat Transaktionsvorschlag gelöscht",
-    "transfer_to_blind":"{account} sent {amount}",
-    "transfer_from_blind":"{account} received {amount}",
+    "transfer_to_blind":"{account} sendete {amount}",
+    "transfer_from_blind":"{account} erhielt {amount}",
     "asset_claim_fees":"claimed asset fees of {amount} from {from} fee pool",
     "fill_order":"{account} kaufte {received} für {price}",
     "vesting_balance_withdraw":"{account} hat zugesichertes Guthaben {amount} beansprucht",
@@ -573,7 +573,7 @@
   },
   "about":{
     "title":"Peerplays TEST Network",
-    "note1":"This public TEST network is for demonstrations purposes only. It will be modified and changed often as additional features are added and tested.",
+    "note1":"Dieses öffentliche TEST-Netzwerk ist für Vorführungen bestimmt. Es wird geändert und verändert sobald zusätzliche Funktionen hinzugefügt und getestet sind.",
     "note2":"A graphic interface, similar to that which is demonstrated on this TEST network, will  be made available upon the launch of the Peerplays blockchian as a downloadable desktop app.",
     "note3":"Here are some of the features you will find this TEST network:",
     "library_link":"Peerplays Dapp Library",
@@ -631,16 +631,16 @@
   "auth":{
     "sign_up_btn":"Sign Up",
     "sign_in_btn":"Sign In",
-    "logout_btn":"Logout"
+    "logout_btn":"Abmelden"
   },
   "login":{
     "login_form_title":"Willkommen bei Peerplays",
-    "login_form_sign_up_label":"Don't have an account?",
-    "login_form_forgot_btn_label":"Forgot your password?",
-    "login_form_login_account_placeholder":"Account Name",
-    "login_form_login_password_placeholder":"Password",
-    "login_form_remember_me_label":"Remember me?",
-    "login_btn":"Login",
+    "login_form_sign_up_label":"Du hast noch kein Konto?",
+    "login_form_forgot_btn_label":"Passwort vergessen?",
+    "login_form_login_account_placeholder":"Kontoname",
+    "login_form_login_password_placeholder":"Passwort",
+    "login_form_remember_me_label":"Angemeldet bleiben?",
+    "login_btn":"Anmelden",
     "signup_form_title":"Bitte erstellen Sie Ihr neues Konto:",
     "create_now":"Jetzt erstellen!",
     "backup_recovery":"Kontosicherung und Wiederherstellung",
@@ -658,9 +658,9 @@
     "sharedrop_note":"For all other PPY balance claims, <br/> Sign up and then go to Settings/Balance Claims"
   },
   "login_bts":{
-    "login_form_title":"Welcome to Peerplays",
+    "login_form_title":"Willkommen bei Peerplays",
     "login_btn":"Login and claim",
-    "login_form_sign_up_label":"Don't have an account?",
+    "login_form_sign_up_label":"Du hast noch kein Konto?",
     "login_key_placeholder":"Paste you BitShares private key",
     "title":"PEERPLAYS UIA and BTS Sharedrop Balance Claims",
     "note_title_1":"PEERPLAYS UIA HOLDERS:",
@@ -675,7 +675,7 @@
     "please_create":"Please create your new account:",
     "note1":"If you lose your password, you will lose all of your funds!",
     "note2":"Keep Your Password safe!",
-    "note3":"To download a text file of your password, click the link below:",
+    "note3":"Um eine Textdatei Ihres Passwortes herunterzuladen, klicken sie bitte den unten stehenden Link:",
     "pseudoText1":"I understand that Peerplays cannot recover lost passwords",
     "pseudoText2":"I have securely saved my generated password",
     "create_btn":"Create account",
