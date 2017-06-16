@@ -464,7 +464,7 @@
     },
     "accounts":{
       "title":"Аккаунты",
-      "explore_bitshares_accounts":"Ознакомиться с аккаунтами Peerplays",
+      "explore_bitshares_accounts":"Исследовать аккаунты Peerplays",
       "account_name":"Имя Аккаунта",
       "core_token_balance":"Баланс основного токена",
       "percent_of_total_supply":"Процент от Общего Запаса",
@@ -475,7 +475,7 @@
       "title":"Базовые активы"
     },
     "smartCoins":{
-      "title":"Смарткойны"
+      "title":"Smart Coins"
     },
     "feeSchedule":{
       "title":"Прейскурант Комиссионных Сборов",
