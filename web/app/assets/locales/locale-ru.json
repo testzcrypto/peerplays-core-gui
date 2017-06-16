@@ -487,7 +487,7 @@
       }
     },
     "statistic":{
-      "title":"Анализировать блокчейн",
+      "title":"Исследовать блокчейн",
       "current_block":"Текущий блок",
       "last_block":"Последний Блок",
       "trx_s":"Транзакций/сек",
@@ -545,12 +545,12 @@
     "whitelisted_by":"{lister} добавил аккаунт {listee} в белый список",
     "blacklisted_by":"{lister} добавил аккаунт {listee} в черный список",
     "transfer_account":"Владение {account} передано {to}",
-    "asset_update_feed_producers":"{account} обновил определяющих котировки актива {asset}",
+    "asset_update_feed_producers":"{account} обновил подающих котировки актива {asset}",
     "asset_settle":"{account} запросил погашение {amount}",
     "asset_global_settle":"{account} запросил глобальное погашение {asset} по цене {price}",
     "witness_create":"{account} был обновлен до статуса заверителя",
     "witness_update":"{account} обновил свою информацию о заверителе",
-    "witness_pay":"Вывести зарплату заверителя на аккаунт",
+    "witness_pay":"Вывел зарплату заверителя на аккаунт",
     "witness_receive":"Получен заверителем от заверителя",
     "committee_member_update_global_parameters":"{account} обновил общие параметры комитета",
     "worker_create":"{account} создал предложение о работе с ежедневной оплатой в размере {pay}",
