@@ -16,7 +16,8 @@
     "play": "Play",
     "vote": "Vote",
     "network": "Network",
-    "exchange": "Exchange"
+    "exchange": "Exchange",
+    "no_notices_message": "You don't have messages."
   },
   "dashboard": {
     "show_hidden": "Show hidden assets",
@@ -235,7 +236,9 @@
     }
   },
   "errors": {
+    "login_error": "Please enter a username, starting with a letter and containing at least one dash or number",
     "incorrect_username_or_password": "Incorrect username or password",
+    "incorrect_private_key": "Incorrect Private key",
     "password_must_be_X_characters_or_more": "Password must be %(cnt)s characters or more",
     "password_blank": "Password cannot be blank",
     "password_retype_blank": "Retype Password cannot be blank",
@@ -255,7 +258,9 @@
     "account_not_found": "Account not found.",
     "bitshares_account_not_found": "BitShares Account not found.",
     "premium_name_faucet": "This is a premium name which is not supported by this faucet. Please enter a regular name containing least one dash, a number or no vowels.",
-    "premium_name_warning": "This is a premium name which is more expensive than a name containing a dash (-) or a number."
+    "premium_name_warning": "This is a premium name which is more expensive than a name containing a dash (-) or a number.",
+    "paste_your_redemption_key_here": "Paste your redemption key here",
+    "no_balance_objects": "No balance objects"
   },
   "games": {
     "title": "Peerplays Dapps",
@@ -677,7 +682,9 @@
     "download_btn": "Download recovery file",
     "reenter_password": "Re-Enter Generated Password",
     "copy_btn": "Copy",
-    "your_password_is": "Your account password is"
+    "your_password_is": "Your account password is",
+    "already_have_account": "Already have an account? Go to %(login_link)s",
+    "login_link": "Login"
   },
   "buttons": {
     "done": "Done",
@@ -724,7 +731,6 @@
     "title_welcome": "Welcome to Peerplays Core",
     "important_title": "IMPORTANT:",
     "important_note": "PLEASE REMEMBER TO SECURELY STORE YOUR WALLET PASSWORD. IF YOU LOSE YOUR PASSWORD, YOU WILL LOSE ACCESS TO YOUR WALLET AND FUNDS PERMANENTLY.",
-    "introduce_note": "You can log out of the Peerplays Core wallet by going to My Funds and clicking on your Account Name at the top right side of the screen.",
     "introduce_note": "You can log out of the Peerplays Core wallet by going to My Funds and clicking on your Account Name at the top right side of the screen.",
     "anchors": {
       "my_funds": "MY FUNDS",
